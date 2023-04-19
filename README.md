@@ -6,5 +6,9 @@ pageinsightsapi
 * [source-code](https://gist.github.com/rabiyulfahimhasim786/ba295d3068a0cec0744c1c59ead31c09)
 
 
-Postman testing:
+#Postman testing:
+
 ![](lighthouseformdata.JPG)
+
+#Post Query parameters testing
+![](/lighthousequeryparameters.JPG)
