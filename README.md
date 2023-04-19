@@ -8,7 +8,9 @@ pageinsightsapi
 
 # Postman testing:
 
+* Form data
+
 ![](lighthouseformdata.JPG)
 
-# Post Query parameters testing
+* Post Query parameters testing
 ![](lighthousequeryparameters.JPG)
